@@ -91,6 +91,7 @@ class _PhoneVerificationState extends State<PhoneVerification> {
                                       );
                                       showToast();
                                     },
+
                                     icon: Icon(Icons.send,color: Colors.white,),
                                     label: Text("Send code"),
                                     color: Colors.red,
